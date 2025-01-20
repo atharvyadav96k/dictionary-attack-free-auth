@@ -1,4 +1,5 @@
 <img src="https://i.ibb.co/5hwnwJC/diagram-export-1-20-2025-9-49-40-PM.png" alt="Diagram" width="500" height="500">
+
 # Authentication System with Dictionary Attack Prevention
 ## Overview
 
